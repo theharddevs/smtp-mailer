@@ -10,3 +10,5 @@ contact developer - https://t.me/profcodes
 - Rate limit is inluded as a must
 
   contact developer - https://t.me/profcodes
+
+# smtp bomber
