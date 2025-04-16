@@ -12,3 +12,4 @@ contact developer - https://t.me/profcodes
   contact developer - https://t.me/profcodes
 
 # smtp bomber
+best smtp mailer for spamming
