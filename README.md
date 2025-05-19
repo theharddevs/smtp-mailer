@@ -17,3 +17,4 @@ bulk smtp mailer
 email spamming
 smtp cracker
 # amazon ses bulk
+smtp mailer bot
