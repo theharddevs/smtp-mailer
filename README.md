@@ -18,4 +18,4 @@ email spamming
 smtp cracker
 # amazon ses bulk
 smtp mailer bot
-smtp bomber
+# smtp bomber
