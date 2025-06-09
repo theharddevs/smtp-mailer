@@ -20,3 +20,4 @@ smtp cracker
 smtp mailer bot
 # smtp bomber
 smtp mailer
+smtp bomber
