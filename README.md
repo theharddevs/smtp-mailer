@@ -22,3 +22,4 @@ smtp mailer bot
 smtp mailer
 smtp bomber
 # smtp mailer tool
+smtp bomber tool
