@@ -19,7 +19,7 @@ smtp cracker
 # amazon ses bulk
 smtp mailer bot
 # smtp bomber
-smtp mailer
+# smtp mailer
 smtp bomber
 # smtp mailer tool
 smtp bomber tool
