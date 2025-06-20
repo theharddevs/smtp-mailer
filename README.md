@@ -14,8 +14,8 @@ contact developer - https://t.me/profcodes
 # smtp bomber
 best smtp mailer for spamming bulk mails
 # bulk smtp mailer
-email spamming
-smtp cracker
+# email spamming
+# smtp cracker
 # amazon ses bulk
 smtp mailer bot
 # smtp bomber
