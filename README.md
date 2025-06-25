@@ -20,6 +20,6 @@ best smtp mailer for spamming bulk mails
 smtp mailer bot
 # smtp bomber
 # smtp mailer
-smtp bomber
+# smtp bomber
 # smtp mailer tool
 smtp bomber tool
