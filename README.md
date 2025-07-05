@@ -17,7 +17,7 @@ best smtp mailer for spamming bulk mails
 # email spamming
 # smtp cracker
 # amazon ses bulk
-smtp mailer bot
+# smtp mailer bot
 # smtp bomber
 # smtp mailer
 # smtp bomber
