@@ -24,3 +24,4 @@ best smtp mailer for spamming bulk mails
 # smtp mailer tool
 # smtp bomber tool
 # spammer
+# email bomber
